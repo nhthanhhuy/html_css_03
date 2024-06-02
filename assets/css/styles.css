@@ -64,6 +64,7 @@ a {
     min-height: 100vh;
     background: var(--header-bg);
     padding-top: 30px;
+    padding-bottom: 110px;
 }
 
 .header .header-top {
